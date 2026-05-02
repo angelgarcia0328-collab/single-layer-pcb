@@ -1,0 +1,89 @@
+Added Component: Designator=U3(MLF32)
+Add component (AddParameter): Name = "DeviceName"; Value = "MU"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "DeviceSetName"; Value = "ATMEGA16U2-"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "GateName_1"; Value = "G$1"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LibraryName"; Value = "SmartPrj"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "SymbolName_1"; Value = "ATMEL_MEGA8U2"; VariantName = "[No Variations]"
+Add Pin To Net: Unknown Pin: Pin TP_0-X
+Add Pin To Net: Unknown Pin: Pin TP_1-X
+Add Pin To Net: Unknown Pin: Pin TP_2-X
+Add Pin To Net: Unknown Pin: Pin TP_3V3-X
+Add Pin To Net: Unknown Pin: Pin TP_3-X
+Add Pin To Net: Unknown Pin: Pin TP_4-X
+Add Pin To Net: Unknown Pin: Pin TP_5V1-X
+Add Pin To Net: Unknown Pin: Pin TP_5V-X
+Add Pin To Net: Unknown Pin: Pin TP_5-X
+Add Pin To Net: Unknown Pin: Pin TP_6-X
+Add Pin To Net: Unknown Pin: Pin TP_7-X
+Add Pin To Net: Unknown Pin: Pin TP_8-X
+Add Pin To Net: Unknown Pin: Pin TP_9-X
+Add Pin To Net: Unknown Pin: Pin TP_10-X
+Add Pin To Net: Unknown Pin: Pin TP_11-X
+Add Pin To Net: Unknown Pin: Pin TP_12-X
+Add Pin To Net: Unknown Pin: Pin TP_13-X
+Add Pin To Net: Unknown Pin: Pin TP_A0-X
+Add Pin To Net: Unknown Pin: Pin TP_A1-X
+Add Pin To Net: Unknown Pin: Pin TP_A2-X
+Add Pin To Net: Unknown Pin: Pin TP_A3-X
+Add Pin To Net: Unknown Pin: Pin TP_A4-X
+Add Pin To Net: Unknown Pin: Pin TP_A5-X
+Add Pin To Net: Unknown Pin: Pin TP_AREF-X
+Add Pin To Net: Unknown Pin: Pin TP_CMP-X
+Add Pin To Net: Unknown Pin: Pin TP_D+-X
+Add Pin To Net: Unknown Pin: Pin TP_DTR-X
+Add Pin To Net: Unknown Pin: Pin TP_D--X
+Add Pin To Net: Unknown Pin: Pin TP_GATE-X
+Add Pin To Net: Unknown Pin: Pin TP_LCMD-X
+Add Pin To Net: Unknown Pin: Pin TP_LL-X
+Add Pin To Net: Unknown Pin: Pin TP_MISO2-X
+Add Pin To Net: Unknown Pin: Pin TP_MOSI2-X
+Add Pin To Net: Unknown Pin: Pin TP_ONL-X
+Add Pin To Net: Unknown Pin: Pin TP_PB4-X
+Add Pin To Net: Unknown Pin: Pin TP_PB5-X
+Add Pin To Net: Unknown Pin: Pin TP_PB6-X
+Add Pin To Net: Unknown Pin: Pin TP_PB7-X
+Add Pin To Net: Unknown Pin: Pin TP_PWRIN-X
+Add Pin To Net: Unknown Pin: Pin TP_RESET2-X
+Add Pin To Net: Unknown Pin: Pin TP_RESET-X
+Add Pin To Net: Unknown Pin: Pin TP_RXL-X
+Add Pin To Net: Unknown Pin: Pin TP_RX-X
+Add Pin To Net: Unknown Pin: Pin TP_SCK2-X
+Add Pin To Net: Unknown Pin: Pin TP_SCL-X
+Add Pin To Net: Unknown Pin: Pin TP_SDA-X
+Add Pin To Net: Unknown Pin: Pin TP_TXL-X
+Add Pin To Net: Unknown Pin: Pin TP_TX-X
+Add Pin To Net: Unknown Pin: Pin TP_UGND-X
+Add Pin To Net: Unknown Pin: Pin TP_USBVCC-X
+Add Pin To Net: Unknown Pin: Pin TP_USH-X
+Add Pin To Net: Unknown Pin: Pin TP_VIN-X
+Add Pin To Net: Unknown Pin: Pin TP_VUCAP-X
+Add Pin To Net: Unknown Pin: Pin TP_XT1-X
+Add Pin To Net: Unknown Pin: Pin TP_XT2-X
+Add Pin To Net: Unknown Pin: Pin TP_XT3-X
+Add Pin To Net: Unknown Pin: Pin TP_XT4-X
+Add Pin To Net: Unknown Pin: Pin TP_XUSB-X
+Added Pin To Net: NetName=XT1 Pin=U3-1
+Added Pin To Net: NetName=XT2 Pin=U3-2
+Added Pin To Net: NetName=GND Pin=U3-3
+Added Pin To Net: NetName=+5V Pin=U3-4
+Added Pin To Net: NetName=M8TXD Pin=U3-8
+Added Pin To Net: NetName=M8RXD Pin=U3-9
+Added Pin To Net: NetName=RXLED Pin=U3-10
+Added Pin To Net: NetName=TXLED Pin=U3-11
+Added Pin To Net: NetName=DTR Pin=U3-13
+Added Pin To Net: NetName=SCK2 Pin=U3-15
+Added Pin To Net: NetName=MOSI2 Pin=U3-16
+Added Pin To Net: NetName=MISO2 Pin=U3-17
+Added Pin To Net: NetName=PB4 Pin=U3-18
+Added Pin To Net: NetName=PB5 Pin=U3-19
+Added Pin To Net: NetName=PB6 Pin=U3-20
+Added Pin To Net: NetName=PB7 Pin=U3-21
+Added Pin To Net: NetName=RESET2 Pin=U3-24
+Added Pin To Net: NetName=TP_VUCAP Pin=U3-27
+Added Pin To Net: NetName=UGND Pin=U3-28
+Added Pin To Net: NetName=RD+ Pin=U3-29
+Added Pin To Net: NetName=RD- Pin=U3-30
+Added Pin To Net: NetName=NetTP_USBVCC_X Pin=U3-31
+Added Pin To Net: NetName=+5V Pin=U3-32
+Added Pin To Net: NetName=GND Pin=U3-33
+Added Member To Class: ClassName=UNO-TH_Rev3e Member=Component U3 ATMEGA16U2-MU(R)
